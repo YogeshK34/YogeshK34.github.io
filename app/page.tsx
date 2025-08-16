@@ -37,7 +37,7 @@ export default function Page() {
       imageSrc:
         "https://guarda.com/assets/images/academy/thumbs/how_to_create_sol_wallet.webp",
       tags: ["Blockchain", "Solana", "Web3"],
-      href: "http://github.com/solana-devs-mit/",
+      href: "https://solanawallet.dev",
       priority: true,
       gradientFrom: "#0f172a",
       gradientTo: "#6d28d9",
