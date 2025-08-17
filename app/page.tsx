@@ -87,7 +87,7 @@ export default function Page() {
       subtitle: "Frontend & backend solutions",
       imageSrc: "https://www.mindinventory.com/blog/wp-content/uploads/2021/06/expense-tracking-app-features.webp",
       tags: ["Web2", "JavaScript", "UI/UX"],
-      href: "/https://track-it-expense-tracker-app.vercel.app/",
+      href: "https://track-it-expense-tracker-app.vercel.app/",
       priority: false,
       gradientFrom: "#1f2937",
       gradientTo: "#8b5cf6",
